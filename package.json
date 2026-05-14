@@ -1,0 +1,8 @@
+{
+  "name": "github-pipeline",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo Teste funcionando",
+    "build": "echo Build funcionando"
+  }
+}
